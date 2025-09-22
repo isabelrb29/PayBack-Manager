@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1babaf0bc3043210e2b9921ed401316b" label="Category" max_length="40" name="x_1131775_paybac_0_category" type="collection">
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Group" max_length="250" name="group" type="string"/>
+        <element display="true" label="Name" max_length="250" name="name" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
