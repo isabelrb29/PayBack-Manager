@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="grou0" table="x_1131775_paybac_0_category">
+        <active>true</active>
+        <array>false</array>
+        <attributes/>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Group</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>grou0</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Reference">reference</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>32</max_length>
+        <name>x_1131775_paybac_0_category</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="sys_user_group">sys_user_group</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual>parent=a367f387c3443210e2b9921ed401310c</reference_qual>
+        <reference_qual_condition table="sys_user_group">parent=a367f387c3443210e2b9921ed401310c<item display_table="sys_user_group" display_value="HR.Resolvers" endquery="false" field="parent" goto="false" newquery="false" operator="=" or="false" value="a367f387c3443210e2b9921ed401310c"/>
+        </reference_qual_condition>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 21:08:13</sys_created_on>
+        <sys_id>70781c13c3083210e2b9921ed40131d3</sys_id>
+        <sys_name>Group</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_update_name>sys_dictionary_x_1131775_paybac_0_category_grou0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 21:09:19</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</application>
+        <file_path/>
+        <instance_id>7aff68632b931618e83bf9f66e91bfd7</instance_id>
+        <instance_name>dev293866</instance_name>
+        <name>sys_dictionary_x_1131775_paybac_0_category_grou0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="grou0" table="x_1131775_paybac_0_category"><active>true</active><array>false</array><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Group</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>grou0</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>x_1131775_paybac_0_category</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user_group">sys_user_group</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>parent=a367f387c3443210e2b9921ed401310c</reference_qual><reference_qual_condition table="sys_user_group">parent=a367f387c3443210e2b9921ed401310c<item display_table="sys_user_group" display_value="HR.Resolvers" endquery="false" field="parent" goto="false" newquery="false" operator="=" or="false" value="a367f387c3443210e2b9921ed401310c"/></reference_qual_condition><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-22 21:08:13</sys_created_on><sys_id>70781c13c3083210e2b9921ed40131d3</sys_id><sys_name>Group</sys_name><sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package><sys_policy/><sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope><sys_update_name>sys_dictionary_x_1131775_paybac_0_category_grou0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-22 21:09:19</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>10343149</payload_hash>
+        <record_name>Category.Group</record_name>
+        <reverted_from/>
+        <source>07f0e3c7c3c03210e2b9921ed40131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 21:09:19</sys_created_on>
+        <sys_id>41b89053c3083210e2b9921ed4013155</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>199734277af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 21:09:19</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>09b890536f083210c14a5334af034654</update_guid>
+        <update_guid_history>09b890536f083210c14a5334af034654:10343149,f8785c1334083210dfdb03bff881fd2c:-755919730,70785c131308321071dca4788a8b4824:-741116439</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-22 21:12:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>1d53556f2bc74d3883762be9160381a4</sys_id>
+        <sys_metadata>70781c13c3083210e2b9921ed40131d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Group</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_parent display_value="Category">1babaf0bc3043210e2b9921ed401316b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_scope_delete display_value="">12da7bd0fffa4340a406ba6271ee8240</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_1131775_paybac_0_category_grou0</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_1131775_paybac_0_category_grou0">41b89053c3083210e2b9921ed4013155</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-22 21:12:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

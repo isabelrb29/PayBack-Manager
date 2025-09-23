@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="802deb8bc3043210e2b9921ed4013141" extends="task" label="Refund" max_length="40" name="x_1131775_paybac_0_refund" type="collection">
-        <element default="0" label="Refund amount" max_length="255" name="refund_amount" type="float"/>
         <element label="Receipt" max_length="40" name="receipt" type="user_image"/>
+        <element label="Refund amount" max_length="40" name="refund_amount" type="currency"/>
+        <element label="arefund teste" max_length="40" name="arefund_teste" type="currency"/>
         <element label="Category" max_length="32" name="category" reference="x_1131775_paybac_0_category" type="reference"/>
+        <element label="Reproval reason" max_length="4000" name="reproval_reason" type="string"/>
         <element label="Date of expense" max_length="4000" name="date_of_expense" type="glide_date"/>
     </element>
 </database>
