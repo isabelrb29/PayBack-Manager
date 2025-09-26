@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 20:50:57</sys_created_on>
+        <sys_id>7d1e95a7c3483210e2b9921ed4013163</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1131775_paybac_0_category.x_1131775_paybac_0.refund resolver</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_security_acl display_value="x_1131775_paybac_0_category">711e95a7c3483210e2b9921ed4013160</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7d1e95a7c3483210e2b9921ed4013163</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 20:50:57</sys_updated_on>
+        <sys_user_role display_value="x_1131775_paybac_0.refund resolver" name="x_1131775_paybac_0.refund resolver">251e95a7c3483210e2b9921ed4013126</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</application>
+        <file_path/>
+        <instance_id>7aff68632b931618e83bf9f66e91bfd7</instance_id>
+        <instance_name>dev293866</instance_name>
+        <name>sys_security_acl_role_7d1e95a7c3483210e2b9921ed4013163</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-23 20:50:57</sys_created_on><sys_id>7d1e95a7c3483210e2b9921ed4013163</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1131775_paybac_0_category.x_1131775_paybac_0.refund resolver</sys_name><sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package><sys_policy/><sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope><sys_security_acl display_value="x_1131775_paybac_0_category">711e95a7c3483210e2b9921ed4013160</sys_security_acl><sys_update_name>sys_security_acl_role_7d1e95a7c3483210e2b9921ed4013163</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-23 20:50:57</sys_updated_on><sys_user_role display_value="x_1131775_paybac_0.refund resolver" name="x_1131775_paybac_0.refund resolver">251e95a7c3483210e2b9921ed4013126</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-401910958</payload_hash>
+        <record_name>x_1131775_paybac_0_category.x_1131775_paybac_0.refund resolver</record_name>
+        <reverted_from/>
+        <source>07f0e3c7c3c03210e2b9921ed40131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-23 20:50:57</sys_created_on>
+        <sys_id>f91e95a7c3483210e2b9921ed4013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1997858030b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-23 20:50:57</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>fd1e95a7004832105b818be7bf6a6566</update_guid>
+        <update_guid_history>fd1e95a7004832105b818be7bf6a6566:-401910958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1131775_paybac_0_category.x_1131775_paybac_0.refund resolver">cd4377d4c354f210e2b9921ed401315b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-26 15:38:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>921ae96a0ed94ac4869853f4c96685c4</sys_id>
+        <sys_metadata>7d1e95a7c3483210e2b9921ed4013163</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1131775_paybac_0_category.x_1131775_paybac_0.refund resolver</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_parent display_value="x_1131775_paybac_0_category">711e95a7c3483210e2b9921ed4013160</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_scope_delete display_value="">12da7bd0fffa4340a406ba6271ee8240</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_7d1e95a7c3483210e2b9921ed4013163</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_7d1e95a7c3483210e2b9921ed4013163">f91e95a7c3483210e2b9921ed4013167</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-26 15:38:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
