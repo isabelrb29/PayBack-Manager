@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2025-09-25 14:36:54</sys_created_on>
+        <sys_id>3dabde88c3d87210e2b9921ed4013110</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: properties</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_update_name>sys_scope_privilege_3dabde88c3d87210e2b9921ed4013110</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-09-25 14:36:54</sys_updated_on>
+        <target_name>Glide API: properties</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>

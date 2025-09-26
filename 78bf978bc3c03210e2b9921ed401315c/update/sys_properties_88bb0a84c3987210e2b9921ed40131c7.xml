@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Free Currency Apikey</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1131775_paybac_0.Integration_apikey</name>
+        <read_roles/>
+        <suffix>Integration_apikey</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-25 13:27:48</sys_created_on>
+        <sys_id>88bb0a84c3987210e2b9921ed40131c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1131775_paybac_0.Integration_apikey</sys_name>
+        <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
+        <sys_update_name>sys_properties_88bb0a84c3987210e2b9921ed40131c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-25 13:27:48</sys_updated_on>
+        <type>string</type>
+        <value>fca_live_5CgM8TAgaZfroSu37hkr0AnPmiLbV8p19K60cFeL</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=88bb0a84c3987210e2b9921ed40131c7"/>
+</record_update>

@@ -2,17 +2,31 @@
     <sys_ui_related sys_domain="global" table="x_1131775_paybac_0_refund" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Refund - Default view" name="x_1131775_paybac_0_refund" related_list="NULL" sys_domain="global" view="Default view">da4020dbc3083210e2b9921ed40131d6</list_id>
+            <list_id display_value="Refund - Default view" name="x_1131775_paybac_0_refund" related_list="NULL" sys_domain="global" view="Default view">6dcdeb40c390b210e2b9921ed4013131</list_id>
             <order_by/>
             <position>0</position>
             <related_list>sysapproval_approver.sysapproval</related_list>
             <sys_class_name>sys_ui_related_list_entry</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 21:42:27</sys_created_on>
-            <sys_id>d64020dbc3083210e2b9921ed40131d8</sys_id>
+            <sys_created_on>2025-09-25 20:35:42</sys_created_on>
+            <sys_id>69cdeb40c390b210e2b9921ed4013133</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 21:42:27</sys_updated_on>
+            <sys_updated_on>2025-09-25 20:35:42</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Refund - Default view" name="x_1131775_paybac_0_refund" related_list="NULL" sys_domain="global" view="Default view">6dcdeb40c390b210e2b9921ed4013131</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>task_sla.task</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-09-25 20:35:42</sys_created_on>
+            <sys_id>a1cdeb40c390b210e2b9921ed4013134</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-09-25 20:35:42</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
             <calculated_name>Refund - Default view</calculated_name>
@@ -23,10 +37,10 @@
             <related_list/>
             <sys_class_name>sys_ui_related_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-09-22 21:42:27</sys_created_on>
+            <sys_created_on>2025-09-25 20:35:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>da4020dbc3083210e2b9921ed40131d6</sys_id>
+            <sys_id>6dcdeb40c390b210e2b9921ed4013131</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Refund - Default view</sys_name>
             <sys_package display_value="PayBack Manager" source="x_1131775_paybac_0">78bf978bc3c03210e2b9921ed401315c</sys_package>
@@ -34,7 +48,7 @@
             <sys_scope display_value="PayBack Manager">78bf978bc3c03210e2b9921ed401315c</sys_scope>
             <sys_update_name>sys_ui_related_x_1131775_paybac_0_refund_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-09-22 21:42:27</sys_updated_on>
+            <sys_updated_on>2025-09-25 20:35:42</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
